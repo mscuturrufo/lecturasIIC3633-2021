@@ -1,0 +1,5 @@
+## Content-Based Recommendation Systems
+
+La lectura Content-Based Recommendation Systems de Xu, Liu & Gong (2003) trata sobre los sistemas de recomendación basados ​​en contenido (CBR), cuyo objetivo es analizar las descripciones de los *items* para identificar los que serían de interes para el *user*. Este tipo de algoritmo se basa usualmente en mantener un pefil de los intereses del *user*  en donde se guarda la descripción de los *items* que le interesan al usuario o el historial de interacciones del *user*. En general, los principales usos de los sistemas CBR es para seleccionar un *subset* de *items* para ser desplegados o para determinar el orden de cuáles desplegar primero/ultimo.
+
+La lectura primero describe la distintas representaciones de la información de los *items* (estructurada o no-estructurada). En base a ello, posteriormente, se describen los algoritmos más adecuados al tipo de *data* El capítulo concluye con una discusión de las variantes de los enfoques, fortalezas y debilidades de CBR y el posible desarrollo futuro.
