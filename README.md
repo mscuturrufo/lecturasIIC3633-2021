@@ -10,3 +10,4 @@
 - Semana 2: (:file_folder: lectura2) Matrix factorization techniques for recommender systems
 - Semana 3: (:file_folder: lectura3) Evaluating Recommendation Systems
 - Semana 4: (:file_folder: lectura4) Content-Based Recommendation Systems
+- Semana 5: (:file_folder: lectura5) Context-Aware Recommender Systems
